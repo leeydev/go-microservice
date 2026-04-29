@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/go-microservice)
+![Version](https://img.shields.io/github/package-json/v/leeydev/go-microservice)
+
 # go-microservice
 
 Professional Go project: go-microservice
